@@ -45,7 +45,28 @@
   <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva"/>
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/>
 </p>
+---
 
+### 🌐 **Networking & Security Stack**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/CCNA-0077B5?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
+  <img src="https://img.shields.io/badge/CCNP-0077B5?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNP"/>
+  <img src="https://img.shields.io/badge/Cisco%20ASA-ED1C24?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco ASA"/>
+  <img src="https://img.shields.io/badge/Juniper-8A8D8F?style=for-the-badge&logo=junipernetworks&logoColor=white" alt="Juniper"/>
+  <img src="https://img.shields.io/badge/Aruba-007398?style=for-the-badge&logo=aruba&logoColor=white" alt="Aruba"/>
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/>
+  <img src="https://img.shields.io/badge/Nmap-4A4A4A?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap"/>
+
+  <br>
+  <img src="https://img.shields.io/badge/Cisco%20IOS-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco IOS"/>
+  <img src="https://img.shields.io/badge/Juniper%20Junos-8A8D8F?style=for-the-badge&logo=junipernetworks&logoColor=white" alt="Juniper Junos"/>
+  <img src="https://img.shields.io/badge/Aruba%20OS-007398?style=for-the-badge&logo=aruba&logoColor=white" alt="Aruba OS"/>
+  <img src="https://img.shields.io/badge/TCP/IP-000000?style=for-the-badge" alt="TCP/IP"/>
+  <img src="https://img.shields.io/badge/EIGRP-ED1C24?style=for-the-badge" alt="EIGRP"/>
+  <img src="https://img.shields.io/badge/OSPF-ED1C24?style=for-the-badge" alt="OSPF"/>
+   </br>
+</p>
 ---
 
 ### 💼 **Projects & Accomplishments**
