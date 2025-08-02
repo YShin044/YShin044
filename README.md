@@ -51,7 +51,6 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/CCNA-0077B5?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNA"/>
-  <img src="https://img.shields.io/badge/CCNP-0077B5?style=for-the-badge&logo=cisco&logoColor=white" alt="CCNP"/>
   <img src="https://img.shields.io/badge/Cisco%20ASA-ED1C24?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco ASA"/>
   <img src="https://img.shields.io/badge/Juniper-8A8D8F?style=for-the-badge&logo=junipernetworks&logoColor=white" alt="Juniper"/>
   <img src="https://img.shields.io/badge/Aruba-007398?style=for-the-badge&logo=aruba&logoColor=white" alt="Aruba"/>
