@@ -109,7 +109,7 @@
 
 ---
 
-### 🌐 **Connect with Me**
+### 📬 **Get in Touch**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/minh-tâm-a787012b8/" target="_blank">
